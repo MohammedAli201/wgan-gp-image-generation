@@ -1,0 +1,4 @@
+# Install compatible PyTorch / torchvision versions for your platform.
+torch
+torchvision
+Pillow
